@@ -14,11 +14,15 @@ export default function CTA() {
         </div>
         <div className="cta-side reveal" data-delay="1">
           <p>
-            Tell us what you're building. We'll respond within one business day with honest
-            feedback and, if it's a fit, a proposal within the week.
+            Call us to discuss your project goals, timeline, and next steps. We are happy to give
+            practical guidance and help you decide the best way forward.
           </p>
-          <a href="#" className="btn btn-accent" style={{ padding: '16px 26px', fontSize: 16 }}>
-            Book a Free Call
+          <a
+            href="tel:+972543456305"
+            className="btn btn-accent"
+            style={{ padding: '16px 26px', fontSize: 16 }}
+          >
+            call us
             <ArrowRight />
           </a>
           <div className="cta-meta">
